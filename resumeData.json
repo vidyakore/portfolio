@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Vidya Kore",
+    "occupation": "Student of Computer Science Engineering",
+    "description": "Enthusiastic to learn new things",
+    "image": "vidya1.jpg",
+    "bio": "My name is Vidya, I'm a student at Nutan College Of Engineering and Research, studying computer science and engineering Always enthiusiastic to learn new things ,upgrading skills with web development, Machine Learning, Artificial Intelligence, Computer Vision and Data Science.",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "vidyakore3108@gmail.com",
+    "phone": "8308710658",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "XYZ 561"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vidya.kore.338",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vidya-kore-7a7751173/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/vidya_kore/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/vidyakore",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "DBATU ",
+        "degree": "B.Tech in Computer Science",
+        "graduated": "pursuing",
+        "description": "pursuing"
+      },
+      {
+        "school": "BES ",
+        "degree": "HSC",
+        "graduated": "March 2016",
+        "description": "passed with distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Smart India Hackathon",
+        "title": "Student Grievance Management System",
+        "years": "April 2020",
+        "description": "participated in national level competition"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "MySql",
+        "level": "70%"
+      },
+      {
+        "name": "Django",
+        "level": "55%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      },
+      {
+        "name": "Laravel",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "5%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Blogging Website PostIt!",
+        "category": "Built with Django(python framework)",
+        "image": "django1.png",
+        "url": "https://github.com/vidyakore/miniproject"
+      },
+      {
+        "title": "A Grievance redressal portal",
+        "category": "Built with Laravel (HTML,CSS,JavaScript,MySql)",
+        "image": "laravel.png",
+        "url": "https://github.com/vidyakore/kb220_hackvengers-1"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Thanks for teaching us in last moment of exams",
+        "user": "Nikita"
+      }
+    ]
+  }
+}
